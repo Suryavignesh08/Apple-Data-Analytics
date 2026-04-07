@@ -99,4 +99,4 @@ The dataset is derived from Apple's publicly available financial statements and 
 
 If you liked this project or have suggestions, feel free to connect!
 
-* LinkedIn: *[(Add your profile link here)](https://www.linkedin.com/in/beegalasuryavignesh/)*
+* LinkedIn:* https://www.linkedin.com/in/beegalasuryavignesh/
